@@ -22,7 +22,7 @@ async function Favourite  ()  {
   return (
 <section className=''>
   <div className=' flex justify-between '>
-  <h1 className='text-4xl font-bold'>Gallery</h1>
+  <h1 className='text-4xl font-bold'>Favorite</h1>
  
   
   </div>
